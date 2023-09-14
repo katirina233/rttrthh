@@ -1,0 +1,26 @@
+C:\Users\Student\source\repos\фонд книг\фонд книг\bin\Debug\net5.0-windows\фонд книг.exe
+C:\Users\Student\source\repos\фонд книг\фонд книг\bin\Debug\net5.0-windows\фонд книг.deps.json
+C:\Users\Student\source\repos\фонд книг\фонд книг\bin\Debug\net5.0-windows\фонд книг.runtimeconfig.json
+C:\Users\Student\source\repos\фонд книг\фонд книг\bin\Debug\net5.0-windows\фонд книг.runtimeconfig.dev.json
+C:\Users\Student\source\repos\фонд книг\фонд книг\bin\Debug\net5.0-windows\фонд книг.dll
+C:\Users\Student\source\repos\фонд книг\фонд книг\bin\Debug\net5.0-windows\ref\фонд книг.dll
+C:\Users\Student\source\repos\фонд книг\фонд книг\bin\Debug\net5.0-windows\фонд книг.pdb
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\фонд книг.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\biblioteka.g.cs
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\polzovatel.g.cs
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\фонд книг_MarkupCompile.cache
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\фонд книг_MarkupCompile.lref
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\biblioteka.baml
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\polzovatel.baml
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\фонд книг.g.resources
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\фонд книг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\фонд книг.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\фонд книг.AssemblyInfo.cs
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\фонд книг.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\фонд книг.dll
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\ref\фонд книг.dll
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\фонд книг.pdb
+C:\Users\Student\source\repos\фонд книг\фонд книг\obj\Debug\net5.0-windows\фонд книг.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Window x:Class="фонд_книг.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:фонд_книг"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="404">
+    <Grid Background="#FF004165">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="19*"/>
+            <ColumnDefinition Width="387*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle HorizontalAlignment="Left" Height="327" Margin="33,71,0,0" VerticalAlignment="Top" Width="302" Fill="#FF009FDA" Visibility="Visible" Opacity="0.7" RadiusY="50" RadiusX="59" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="38" Margin="52,159,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="265" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="41"  TextWrapping="Wrap" VerticalAlignment="Top" Width="265" Margin="52,225,0,0" Grid.Column="1"/>
+        <Button Content="Вход"  HorizontalAlignment="Left" Height="31" Margin="126,288,0,0" VerticalAlignment="Top" Width="116" Foreground="White" Background="#FF004165" BorderBrush="#FF004165" FontFamily="Arial" FontSize="16" Grid.Column="1"/>
+        <Label Content="Добро пожаловать!" HorizontalAlignment="Left" Margin="79,85,0,0" VerticalAlignment="Top" Width="207" Height="39" FontFamily="Arial" FontWeight="Bold" FontSize="20" Background="{x:Null}" Foreground="White" RenderTransformOrigin="0.42,0.583" Grid.Column="1"/>
+        <Label Content="Логин" HorizontalAlignment="Left" Margin="52,133,0,0" VerticalAlignment="Top" FontFamily="Arial" Background="{x:Null}" Foreground="#FFFECB00" FontSize="16" Grid.Column="1"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="52,0,0,0" VerticalAlignment="Center" Foreground="#FFFECB00" FontSize="16" Grid.Column="1"/>
+        <Button Content="Войти как гость" HorizontalAlignment="Left" Height="25" Margin="121,335,0,0" VerticalAlignment="Top" Width="126" BorderBrush="{x:Null}" Background="{x:Null}" FontFamily="Arial" FontSize="16" Foreground="White" Grid.Column="1"/>
+        <Image Grid.ColumnSpan="2" Margin="0,0,303,360" Stretch="Fill" Source="pack://siteoforigin:,,,/Image3.png"/>
+        <Image Margin="137,0,151,368" Stretch="Fill" Source="pack://siteoforigin:,,,/Image8.png" Grid.Column="1"/>
+    </Grid>
+</Window>
